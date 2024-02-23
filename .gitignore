@@ -1,3 +1,4 @@
+hadoop_spark
 out
 datasets/doaj_1.csv
 datasets/metadata.csv
@@ -6,4 +7,3 @@ datasets/metadata50K.csv
 profe
 text-mining
 text-prep
-hadoop_spark
