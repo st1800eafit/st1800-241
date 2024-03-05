@@ -1,7 +1,5 @@
 # Universidad EAFIT
 # Curso Almacenamiento y Recuperación de Información (ST1800 & ST1801)
-# Profesor: Edwin Montoya-Munera - emontoya@eafit.edu.co
-# Profesor: Alvaro Ospina Sanjuan - aeospinas@eafit.edu.co
 
 # LAB SPARK
 
