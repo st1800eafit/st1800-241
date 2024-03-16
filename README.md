@@ -10,3 +10,6 @@
 
 ## 3. labs3 para preparación de texto
 [text-prep](text-prep)
+
+## 4. labs4 para text-mining
+[text-mining](text-mining)
